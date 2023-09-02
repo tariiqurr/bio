@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tariqur</h1>
-<h3 align="center">A aspiring Programming</h3>
+<h3 align="center">A aspiring Programmer</h3>
 
 - 📫 How to reach me **mdtariiqurrahman@gmail.com**
 
