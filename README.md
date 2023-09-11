@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tariqur</h1>
-<h3 align="center">A aspiring Programmer</h3>
+<h3 align="center">Aspiring Programmer</h3>
 
 <p align="left"> <a href="https://twitter.com/tariiqurr" target="blank"><img src="https://img.shields.io/twitter/follow/tariiqurr?logo=twitter&style=for-the-badge" alt="tariiqurr" /></a> </p>
 
